@@ -1,0 +1,20 @@
+{
+  "project": "Example frame",
+  "member": "Column C1",
+  "steel_grade": "S275",
+  "fy_mpa": 275,
+  "fu_mpa": 430,
+  "area_mm2": 5000,
+  "iy_mm4": 80000000,
+  "iz_mm4": 20000000,
+  "wy_mm3": 400000,
+  "wz_mm3": 150000,
+  "length_y_mm": 3000,
+  "length_z_mm": 3000,
+  "ky": 1.0,
+  "kz": 1.0,
+  "ned_kn": -100,
+  "my_ed_knm": 20,
+  "mz_ed_knm": 5,
+  "ved_kn": 15
+}
